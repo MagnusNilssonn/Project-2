@@ -6,15 +6,11 @@
     padding: 0;
   }
       
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
+ 
 
   li, a {
-    font-family: 'Arial';
-    color: #fff;
+    font-family: 'Finger Paint', cursive;
+    color: black;
     letter-spacing: 4px;
     text-decoration: none;
     font-size:22px ;
@@ -22,45 +18,46 @@
   }
   
      /*header*/
+ 
+     header{
+        display: flex;
+        justify-content:flex-end;
+        align-items: center;
+        padding: 30px 4%;
+        background-color: lightgoldenrodyellow;
+      }
+      
 
-  header{
-    display: flex;
-    justify-content:flex-end;
-    align-items: center;
-    padding: 30px 4%;
-    background-color: lightgray;
+  
+  
+  h1 {
+    color: black;
+    font-family: 'Finger Paint', cursive;
+    margin-left: 20px;
   }
   
-  .logo{
-    cursor: pointer;
-    margin-right: auto;
-    
-  }
-  
-  .logo h1{
-    color: #fff;
-    font-family: 'Arial', cursive;
-  }
+ 
   
     
-  .nav_links{
+  .nav_links {
     list-style: none;
+   
       
   }
-  .nav_links li{
+  .nav_links li {
     display: inline-block;
     padding: 0px 20px;
   }
-  .nav_links li a{
+  .nav_links li a {
     transition: all 0.3s ease 0s;
   }
-  .nav_links li a:hover{
+  .nav_links li a:hover {
     color: black;
     font-weight: bold;
   }
     
   
-  body{
+  body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -139,7 +136,7 @@
      display: block;
    }
  
-   #bignav {
+   #nav {
      display: none;
    }
  
@@ -177,7 +174,7 @@
    }
    /* Style The Dropdown Button */
 .dropbtn {
-    background-color: #ffffff;
+    background-color: black;
     color: #c94c4c;
     padding: 16px;
     font-size: 16px;
@@ -197,7 +194,7 @@
   }
   
   .fa-solid {
-    color: #fff;
+    color: black;
     padding-top: 20px;
   }
   
