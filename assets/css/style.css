@@ -63,7 +63,7 @@
 
 
 
-.resultBox {
+.resultbox {
     padding: 20px;
     margin: 20px auto;
     background-color: #eee;
@@ -77,9 +77,9 @@
 
   .result p:last-of-type {
     font-size: 1.5em;}
+
  
   
-    
   .nav_links {
     list-style: none;
    
