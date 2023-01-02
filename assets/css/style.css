@@ -37,14 +37,19 @@
   }
   
   iframe {
+    color: black;
+    font-family: 'Finger Paint', cursive;
     margin-top: 100px;
-    margin-left: 150px;
+    margin-left: 200px;
+    margin-bottom: 150px;
     
   }
 
   .about {
+
+    float: right;
     margin-top: 100px;
-    margin-right: 100px;
+    margin-right: 200px;
   }
  
   
@@ -72,7 +77,10 @@
     background-repeat: no-repeat;
     background-size: cover;
     color: #3a3a3a;
+    background-color: ;
   }
+
+  
 
 
  /* footer */
