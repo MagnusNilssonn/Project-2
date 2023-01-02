@@ -21,7 +21,7 @@
  
      header{
         display: flex;
-        justify-content:flex-end;
+        justify-content: space-between;
         align-items: center;
         padding: 30px 4%;
         background-color: lightgoldenrodyellow;
@@ -111,6 +111,11 @@
      font-size: 15px;
      font-weight: bolder;
    }
+
+   #home {
+    display:none;
+   }
+
  
    nav {
      flex-direction: row;
