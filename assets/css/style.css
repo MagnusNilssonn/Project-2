@@ -53,22 +53,30 @@
     margin-right: 200px;
   }
 
-  mainsection {
+  main-section {
   text-align: center;
    width: 70%;
    max-width: 700px;
    margin: auto;
-   padding:30px;
+   
   }
 
 
 
-  .resultBox {
+.resultBox {
     padding: 20px;
     margin: 20px auto;
     background-color: #eee;
     border-radius: 30px;
+    padding-bottom: 210px;
   }
+
+  p {
+    padding-bottom: 20px;
+  }
+
+  .result p:last-of-type {
+    font-size: 1.5em;}
  
   
     
