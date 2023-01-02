@@ -1,6 +1,6 @@
 var userChoice;
 var computerChoice;
-var comChoice;
+
 
 function compare(comChoice) {
   if (userChoice === comChoice) {
