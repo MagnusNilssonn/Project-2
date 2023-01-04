@@ -277,7 +277,8 @@
 
   @media screen and (max-width:450px) {
     iframe {
-      width="300" height="300"
-      margin-left:5px;
+      width: 325px;
+      max-width: 100%;
     }
+      
   }
