@@ -115,6 +115,7 @@
 
  footer {
     height: 75px;
+    
     }
 
  .social-media {
@@ -144,6 +145,7 @@
   
 @media screen and (max-width:1500px) {
   .about {
+    float:left;
     margin-left: 25px;
   }
 }
