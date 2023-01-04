@@ -1,4 +1,4 @@
-# PITA GYROS
+# Rock, Paper, Scissors, Lizard, Spock
 
 The dream of the small genuine place that can deliver food that tastes like Greece began many years ago. Who doesn't love a pita gyro, but how do we make it simple yet good. The idea of ​​Pita Gyros is to offer the good in an accessible and creative way. The focus is on the food, you create the experience yourself, at home, on the beach, at work or wherever you are right now.
 
