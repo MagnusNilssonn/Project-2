@@ -21,6 +21,7 @@ The game was originally created by Sam Kass with Karen Bryla. According to an in
 
 
 ![Mall Home](https://i.postimg.cc/3NTXh7qK/Home.jpg)
+
 ![Mall Play](https://i.postimg.cc/fRZrCQTQ/play.jpg)
 
 ### Existing Features
