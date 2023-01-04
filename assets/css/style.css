@@ -58,6 +58,10 @@
    
   }
 
+  img {
+    margin-top: 20px;
+  }
+
   .btn {
     background:#6fa167;
     padding: 10px;
