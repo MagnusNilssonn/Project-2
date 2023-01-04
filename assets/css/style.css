@@ -40,13 +40,14 @@
     color: black;
     font-family: 'Finger Paint', cursive;
     margin-top: 100px;
-    margin-left: 200px;
+    margin-left: 700px;
     
   }
 
   .about {
-    margin-top: 100px;
-    margin-right: 200px;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
   }
 
   main-section {
