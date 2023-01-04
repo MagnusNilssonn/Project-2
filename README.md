@@ -3,7 +3,9 @@
 This is a tribute page to one of, in my opinion, the best series that aired.
 Rock, Paper, Scissors, Lizard, Spock is a game of chance that expands the traditional game of Rock, Paper, Scissors. It is first used to settle a dispute about what to watch on TV between Sheldon and Raj in "The Lizard-Spock Expansion".
 
-It is mentioned again in "The Rothman Disintegration", where Sheldon explains the rules to Penny and Barry Kripke. 
+It is mentioned again in "The Rothman Disintegration", where Sheldon explains the rules to Penny and Barry Kripke.
+
+The game was originally created by Sam Kass with Karen Bryla. According to an interview with Kass, the series producers did not originally ask for permission to use the game, but Kass was officially referenced by Sheldon as the creator of the game during the "The Rothman Disintegration", after which he states, "Hail Sam Kass!" to which Leonard, Howard, Raj, and Sheldon all then chant "Hail!" while raising their hands.
 
 
 ![Responsive Mockup](https://i.postimg.cc/Hk4VGdtW/mockup.png)
