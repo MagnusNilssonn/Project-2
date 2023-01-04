@@ -61,7 +61,7 @@ The first tests i did had some small errors on the css, after some reserach (gog
 
 The site is tested on an Ipad mini, Ipad Pro, Desktop, Samsung Galaxy and Iphone Xr.
 
-Also ran it through Jigsaw CSS Validator, W3C Html Validator and Lighthouse.
+Also ran it through Jigsaw CSS Validator, W3C Html Validator, JSHint JavaScript Validator and Lighthouse.
 Test results follow.
 
 
@@ -71,6 +71,10 @@ Test results follow.
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmagnusnilssonn.github.io%2FProject-2%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmagnusnilssonn.github.io%2FProject-2%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### JSHint JavaScript Validator
+
+![JSHint](https://i.postimg.cc/pTRFpk2v/JSHint.png)
 
 ### Lighthouse
 
