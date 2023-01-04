@@ -37,18 +37,14 @@
   }
   
   iframe {
-    
     color: black;
     font-family: 'Finger Paint', cursive;
     margin-top: 100px;
     margin-left: 200px;
-    margin-bottom: 150px;
     
   }
 
   .about {
-
-    float: right;
     margin-top: 100px;
     margin-right: 200px;
   }
@@ -145,7 +141,6 @@
   
 @media screen and (max-width:1500px) {
   .about {
-    float:left;
     margin-left: 25px;
   }
 }
@@ -270,12 +265,9 @@
     display: block;
   }
   
-  /* Change the background color of the dropdown button when the dropdown content is shown */
-  .dropdown:hover .dropbtn {
-    background-color: #f5cb5c;
-  }
     
-  }
+  } 
+
 
   @media screen and (max-width:450px) {
     iframe {
