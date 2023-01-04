@@ -48,7 +48,7 @@
 
   .about {
 
-    float:right;
+    float: right;
     margin-top: 100px;
     margin-right: 200px;
   }
@@ -135,6 +135,19 @@
  }
     
   /* media queries */
+
+@media screen and (max-width:1650px) {
+  iframe {
+    margin-left: 10px;
+  }
+}
+  
+@media screen and (max-width:1500px) {
+  .about {
+    margin-left: 25px;
+  }
+}
+
 
  @media screen and (min-width:751px) {
  
@@ -265,7 +278,7 @@
   .dropdown-content a {
     color: #fff;
     padding: 5px 2px;
-    font-size: 10px;
+    font-size: 15px;
     text-decoration: none;
     display: table-row;
     letter-spacing: normal;
@@ -273,7 +286,7 @@
   
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {
-    background-color: #f5cb5c
+    background-color: lightgreen;
   }
   
   /* Show the dropdown menu on hover */
