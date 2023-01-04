@@ -28,6 +28,7 @@ It is mentioned again in "The Rothman Disintegration", where Sheldon explains th
 
   - Featured on both pages, the full responsive navigation bar includes links to Home and Play, is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - I added a hamburger menu for screens below 750px.
 
 ![Nav Bar](https://i.postimg.cc/Nj3LSDSt/navbar.png)
 
